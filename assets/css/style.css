@@ -32,6 +32,10 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.text-slider-items {
+  display: none;
+}
+
 .clockdate-wrapper {
 
   /*
