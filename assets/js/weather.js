@@ -38,7 +38,7 @@ function getWeather() {
     }
   
     function error() {
-      location.innerHTML = "Enable GPS to Enable Weather";
+      location.innerHTML = "Turn on GPS to Enable Weather";
     }
   }
   
