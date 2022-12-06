@@ -124,6 +124,12 @@ h6 {
   border-color: #000000;
 }
 
+.whatsapp {
+  color: #fff;
+  background-color: #36d121;
+  border-color: #000000;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -391,8 +397,12 @@ section {
   overflow: hidden;
 }
 
-.section-bg {
+.section-bot-bg {
   background: #f5f8fd;
+}
+
+.section-bg {
+  background: #ffffff;
 }
 
 .section-title {
