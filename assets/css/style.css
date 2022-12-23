@@ -405,6 +405,10 @@ section {
   background: #ffffff;
 }
 
+.section-blog {
+  background: #f5f8fd;
+}
+
 .section-title {
   padding-bottom: 30px;
 }
