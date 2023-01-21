@@ -96,6 +96,10 @@ main h1 {
     text-align: center;
     text-shadow: 0 0 5px #c3d168a2;
 }
+main h3 {
+    text-align: center;
+    text-shadow: 0 0 5px #c3d168a2;
+}
 main div {
     margin-top: 2rem;
     text-align: center;
@@ -159,7 +163,7 @@ main p {
     text-shadow: 0 0 5px #c3d168a2;
 }
 main button {
-    padding: 0.55rem 1.2rem;
+    padding: 0.55rem 1rem;
     border: none;
     outline: none;
     appearance: none;
