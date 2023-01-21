@@ -8,6 +8,13 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.errorbg {
+  background-image: url("../img/404.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
