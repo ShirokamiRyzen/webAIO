@@ -238,7 +238,7 @@
                   </span>
                   <br>
                   <p class="card-text"></p>
-                  <a href="revanced.php" class="btn gdrive"><i class="bi bi-caret-right"></i>DOWNLOAD PAGE</a>
+                  <a href="revanced" class="btn gdrive"><i class="bi bi-caret-right"></i>DOWNLOAD PAGE</a>
                 </center>
               </div>
             </div>
@@ -251,7 +251,7 @@
                   </span>
                   <br>
                   <p class="card-text"></p>
-                  <a href="spotify.php" class="btn gdrive"><i class="bi bi-caret-right"></i>DOWNLOAD PAGE</a>
+                  <a href="spotify" class="btn gdrive"><i class="bi bi-caret-right"></i>DOWNLOAD PAGE</a>
                 </center>
               </div>
             </div>
@@ -264,7 +264,7 @@
                   </span>
                   <br>
                   <p class="card-text"></p>
-                  <a href="mods.php" class="btn gdrive"><i class="bi bi-caret-right"></i>DOWNLOAD PAGE</a>
+                  <a href="mods" class="btn gdrive"><i class="bi bi-caret-right"></i>DOWNLOAD PAGE</a>
                 </center>
               </div>
             </div>
